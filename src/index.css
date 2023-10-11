@@ -1,0 +1,13 @@
+:root {
+  font-family: Roboto, sans-serif;
+  color: #213547;
+  background-color: white;
+}
+
+body {
+  margin: 0
+}
+
+h1, p {
+  margin: 0;
+}

@@ -1,0 +1,27 @@
+.infoCard {
+  display: flex;
+  height: 125px;
+  width: 250px;
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0.5rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+}
+
+.infoCard-badge {
+  position: absolute;
+  left: -35px;
+  padding: 0.5rem;
+  width: 3rem;
+  height: 3rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background: rgb(57, 73, 171, 0.2);
+  border: 2px solid rgb(57, 73, 171);
+}

@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    min-height: 100px;
+    padding: 3rem;
+    background-color: #F4F7FA;
+    background-image: url(../../assets/discover-journey-maze.svg);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .header__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    gap: 1rem;
+  }
